@@ -1,10 +1,10 @@
 /*
-*   index.ts
-*   Project: First Exercise
-*
-*   Author: Jack Chrestman
-*   Created on: Jan 19, 2023
-*/
+ *   index.ts
+ *   Project: First Exercise
+ *
+ *   Author: Jack Chrestman
+ *   Created on: Jan 19, 2023
+ */
 
 function merge(arr1: Array<number>, arr2: Array<number>): Array<number> {
   const mergedArr: Array<number> = [];
